@@ -1,10 +1,10 @@
 <p align="center">
 
 <h1 align="center" style="margin-bottom:0;">
-  Hi, I'm Seyda 👋
+  Hi, I'm Şeyda Gül Topal👋
 </h1>
 <p align="center" style="margin-top:0; font-size:1.15em;">
-  Java Intern & Spring Framework Enthusiast
+  Java & Spring Framework Enthusiast | Robotics
 </p>
 
 
