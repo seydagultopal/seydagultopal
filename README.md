@@ -4,7 +4,7 @@
   Hi, I'm Şeyda Gül Topal👋
 </h1>
 <p align="center" style="margin-top:0; font-size:1.15em;">
-  Java & Spring Framework Enthusiast | Robotics
+  Fullstack Developer (Java-Spring Boot & React.js)
 </p>
 
 
@@ -24,6 +24,7 @@
 ## 👨‍💻 About Me
 
 - 💡 Gaining backend experience, mainly with **Java** & **Spring Boot**.
+- 💡 Gaining backend experience, mainly with **React.js**.
 - 🛠️ Focused on **clean code**, **scalable systems**, and **automation**.
 - 🤝 Eager to collaborate and share knowledge.
 
